@@ -1,0 +1,76 @@
+# INPUT EXAMPLE
+
+The script generator can work from many kinds of input.
+
+You may provide:
+
+• A simple topic
+• A rough idea
+• A competitor transcript
+• A research paper
+• A YouTube transcript
+• A TikTok transcript
+• Bullet notes
+• Scientific findings
+• A personal story
+• A podcast transcript
+• An article
+
+------------------------------------------------------------
+
+TOPIC
+
+Morning Frequency Routine
+
+------------------------------------------------------------
+
+GOAL
+
+Teach people that frequency can become part of their morning routine before they rely on caffeine.
+
+The video should make viewers curious enough to rethink how they start their day.
+
+------------------------------------------------------------
+
+ROUGH NOTES
+
+- Most people wake up and immediately reach for coffee.
+- Ancient cultures often started the day with chanting, humming, drums, or singing bowls.
+- Humming naturally creates vibration throughout the body.
+- Frequency can be introduced as a simple daily habit instead of something complicated.
+- Keep the explanation practical and science-aware.
+- One simple action someone can try today.
+- David Wong voice.
+- 30–60 seconds.
+- Strong hook.
+- Finish with a conversational CTA asking viewers to comment "RESONANCE".
+
+------------------------------------------------------------
+
+OPTIONAL CONTEXT
+
+Target audience:
+
+People interested in:
+
+- Biohacking
+- Better mornings
+- Focus
+- Energy
+- Frequency
+- Meditation
+- Human performance
+
+Desired emotion:
+
+Curiosity
+
+Wonder
+
+Empowerment
+
+------------------------------------------------------------
+
+OUTPUT
+
+Generate one original short-form script following all repository rules.
